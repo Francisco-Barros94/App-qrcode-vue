@@ -43,7 +43,6 @@ Here's the link: https://vue-qr-code.netlify.app/
 <!-- ROADMAP -->
 ## Roadmap
 
-- [ ] Add rules/wiki
 - [ ] Add different background
 - [ ] Add better UI
 - [ ] Other
