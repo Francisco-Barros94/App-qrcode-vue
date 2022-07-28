@@ -28,12 +28,7 @@ Here's the link: https://vue-qr-code.netlify.app/
 
 ### Built With
 
-* [![Next][Next.js]][Next-url]
-* [![React][React.js]][React-url]
 * [![Vue][Vue.js]][Vue-url]
-* [![Angular][Angular.io]][Angular-url]
-* [![Svelte][Svelte.dev]][Svelte-url]
-* [![Laravel][Laravel.com]][Laravel-url]
 * [![Bootstrap][Bootstrap.com]][Bootstrap-url]
 * [![JQuery][JQuery.com]][JQuery-url]
 
@@ -55,7 +50,7 @@ Here's the link: https://vue-qr-code.netlify.app/
 <!-- LINKS -->
 ## Links
 
-Project Link: [https://github.com/Francisco-Barros94/Game-pig](https://github.com/Francisco-Barros94/Game-pig)
+Project Link: [https://github.com/Francisco-Barros94/App-qrcode-vue](https://github.com/Francisco-Barros94/App-qrcode-vue)
 
 <p align="right">(<a href="#top">back to top</a>)</p>
 
